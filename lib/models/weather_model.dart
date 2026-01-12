@@ -7,7 +7,7 @@ class WeatherModel {
   final String lux;
   final String windSpeed;
   final String windDirection;
-  final String windLevel;
+  final String windLevel;     
       
   WeatherModel({
     required this.date,   
