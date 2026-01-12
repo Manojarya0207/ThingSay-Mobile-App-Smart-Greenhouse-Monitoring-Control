@@ -10,7 +10,7 @@ class WeatherModel {
   final String windLevel;
 
   WeatherModel({
-    required this.date,
+    required this.date,   
     required this.time,
     required this.temperature,
     required this.humidity,
